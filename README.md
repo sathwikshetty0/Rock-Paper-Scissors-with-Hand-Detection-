@@ -6,7 +6,6 @@ Here's a sample **README.md** file for your Rock-Paper-Scissors hand detection g
 
 A fun computer vision game built with Python, OpenCV, and the `cvzone` library. Play Rock-Paper-Scissors against an AI using hand gestures captured through your webcam!
 
-![screenshot-placeholder](https://via.placeholder.com/800x400.png?text=Game+Screenshot)
 
 ---
 
